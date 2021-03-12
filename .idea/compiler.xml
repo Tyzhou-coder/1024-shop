@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="class-geteway" />
-        <module name="class-common" />
         <module name="class-product-service" />
-        <module name="class-order-sevice" />
         <module name="class-user-service" />
+        <module name="class-common" />
+        <module name="class-geteway" />
+        <module name="class-order-sevice" />
       </profile>
     </annotationProcessing>
   </component>
